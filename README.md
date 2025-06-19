@@ -1,8 +1,8 @@
 # Hotel-Recipe-simple-website
 
-🏨 Hotel Recipe Website
+## 🏨 Hotel Recipe Website
 
-This is a simple and responsive Hotel Recipe Website built using HTML and CSS. The website showcases a curated selection of delicious recipes typically offered by a hotel, with a clean and user-friendly layout.
+This is a simple and responsive **Hotel Recipe Website** built using **HTML** and **CSS**. The website showcases a curated selection of delicious recipes typically offered by a hotel, with a clean and user-friendly layout.
 
 ### ✨ Features
 
@@ -15,4 +15,5 @@ This is a simple and responsive Hotel Recipe Website built using HTML and CSS. T
 
 * HTML5
 * CSS3
+
 
